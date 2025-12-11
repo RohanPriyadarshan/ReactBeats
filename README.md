@@ -12,7 +12,6 @@ ReactBeats is a responsive, modern web-based music player that supports:
 - Playlist management
 - Real-time progress tracking using React Hooks
 - A clean Tailwind-based UI design
-- Optional album-cover display
 
 Features:
 
