@@ -1,9 +1,9 @@
-🎵 ReactBeats – Music Player Web Application
+#🎵 ReactBeats – Music Player Web Application
 Tech Stack:
 
 React, JavaScript, HTML, CSS, Tailwind CSS
 
-Overview:
+#Overview:
 
 ReactBeats is a responsive, modern web-based music player that supports:
 
@@ -17,7 +17,7 @@ A clean Tailwind-based UI design
 
 Optional album-cover display
 
-Features:
+#Features:
 
 🎧 Fully responsive React UI
 
